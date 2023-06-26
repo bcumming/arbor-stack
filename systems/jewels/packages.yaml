@@ -1,0 +1,6 @@
+packages:
+  slurm:
+    buildable: false
+    externals:
+    - spec: slurm@22-05-9-1
+      prefix: /usr
